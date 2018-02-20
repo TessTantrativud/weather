@@ -8,8 +8,8 @@ body {
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
-  background-image: linear-gradient(120deg, #f093fb 0%, #f5576c 100%);
-  color: #fff;
+  background-image: linear-gradient(120deg, #fbe993 0%, #80beff 100%);
+  color: #0d3c6e;
 }
 
 h1, h2, h3, h4, h5 {
